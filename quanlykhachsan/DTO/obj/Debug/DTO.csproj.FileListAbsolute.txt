@@ -1,0 +1,29 @@
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\DTO\bin\Debug\DTO.dll
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\DTO\bin\Debug\DTO.pdb
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\DTO\obj\Debug\DTO.dll
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\DTO\obj\Debug\DTO.pdb
+D:\tai lieu\New folder\quanlykhachsan\DTO\bin\Debug\DTO.dll
+D:\tai lieu\New folder\quanlykhachsan\DTO\bin\Debug\DTO.pdb
+D:\tai lieu\New folder\quanlykhachsan\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\tai lieu\New folder\quanlykhachsan\DTO\obj\Debug\DTO.dll
+D:\tai lieu\New folder\quanlykhachsan\DTO\obj\Debug\DTO.pdb
+F:\winform c#\quanlykhachsan\DTO\bin\Debug\DTO.dll
+F:\winform c#\quanlykhachsan\DTO\bin\Debug\DTO.pdb
+F:\winform c#\quanlykhachsan\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+F:\winform c#\quanlykhachsan\DTO\obj\Debug\DTO.dll
+F:\winform c#\quanlykhachsan\DTO\obj\Debug\DTO.pdb
+C:\Users\Thien\Desktop\QuanLyKhachSan\quanlykhachsan\DTO\bin\Debug\DTO.dll
+C:\Users\Thien\Desktop\QuanLyKhachSan\quanlykhachsan\DTO\bin\Debug\DTO.pdb
+C:\Users\Thien\Desktop\QuanLyKhachSan\quanlykhachsan\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Thien\Desktop\QuanLyKhachSan\quanlykhachsan\DTO\obj\Debug\DTO.dll
+C:\Users\Thien\Desktop\QuanLyKhachSan\quanlykhachsan\DTO\obj\Debug\DTO.pdb
+C:\Users\trong\OneDrive\Máy tính\QuanLyKhachSan\quanlykhachsan\DTO\bin\Debug\DTO.dll
+C:\Users\trong\OneDrive\Máy tính\QuanLyKhachSan\quanlykhachsan\DTO\bin\Debug\DTO.pdb
+C:\Users\trong\OneDrive\Máy tính\QuanLyKhachSan\quanlykhachsan\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\trong\OneDrive\Máy tính\QuanLyKhachSan\quanlykhachsan\DTO\obj\Debug\DTO.dll
+C:\Users\trong\OneDrive\Máy tính\QuanLyKhachSan\quanlykhachsan\DTO\obj\Debug\DTO.pdb
+C:\Users\trong\OneDrive\Máy tính\Desktop\QuanLyKhachSan\quanlykhachsan\DTO\bin\Debug\DTO.dll
+C:\Users\trong\OneDrive\Máy tính\Desktop\QuanLyKhachSan\quanlykhachsan\DTO\bin\Debug\DTO.pdb
+C:\Users\trong\OneDrive\Máy tính\Desktop\QuanLyKhachSan\quanlykhachsan\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\trong\OneDrive\Máy tính\Desktop\QuanLyKhachSan\quanlykhachsan\DTO\obj\Debug\DTO.dll
+C:\Users\trong\OneDrive\Máy tính\Desktop\QuanLyKhachSan\quanlykhachsan\DTO\obj\Debug\DTO.pdb

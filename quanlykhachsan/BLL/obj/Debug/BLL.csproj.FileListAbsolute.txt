@@ -1,0 +1,56 @@
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\bin\Debug\BLL.dll
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\bin\Debug\BLL.pdb
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\bin\Debug\DAL.dll
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\bin\Debug\DAL.pdb
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\obj\Debug\BLL.dll
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\obj\Debug\BLL.pdb
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\bin\Debug\DTO.dll
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\bin\Debug\DTO.pdb
+D:\tai lieu\New folder\quanlykhachsan\BLL\bin\Debug\BLL.dll
+D:\tai lieu\New folder\quanlykhachsan\BLL\bin\Debug\BLL.pdb
+D:\tai lieu\New folder\quanlykhachsan\BLL\bin\Debug\DAL.dll
+D:\tai lieu\New folder\quanlykhachsan\BLL\bin\Debug\DTO.dll
+D:\tai lieu\New folder\quanlykhachsan\BLL\bin\Debug\DAL.pdb
+D:\tai lieu\New folder\quanlykhachsan\BLL\bin\Debug\DTO.pdb
+D:\tai lieu\New folder\quanlykhachsan\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\tai lieu\New folder\quanlykhachsan\BLL\obj\Debug\BLL.dll
+D:\tai lieu\New folder\quanlykhachsan\BLL\obj\Debug\BLL.pdb
+F:\winform c#\quanlykhachsan\BLL\bin\Debug\BLL.dll
+F:\winform c#\quanlykhachsan\BLL\bin\Debug\BLL.pdb
+F:\winform c#\quanlykhachsan\BLL\bin\Debug\DAL.dll
+F:\winform c#\quanlykhachsan\BLL\bin\Debug\DTO.dll
+F:\winform c#\quanlykhachsan\BLL\bin\Debug\DAL.pdb
+F:\winform c#\quanlykhachsan\BLL\bin\Debug\DTO.pdb
+F:\winform c#\quanlykhachsan\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\winform c#\quanlykhachsan\BLL\obj\Debug\BLL.dll
+F:\winform c#\quanlykhachsan\BLL\obj\Debug\BLL.pdb
+C:\Users\Thien\Desktop\QuanLyKhachSan\quanlykhachsan\BLL\bin\Debug\BLL.dll
+C:\Users\Thien\Desktop\QuanLyKhachSan\quanlykhachsan\BLL\bin\Debug\BLL.pdb
+C:\Users\Thien\Desktop\QuanLyKhachSan\quanlykhachsan\BLL\bin\Debug\DAL.dll
+C:\Users\Thien\Desktop\QuanLyKhachSan\quanlykhachsan\BLL\bin\Debug\DTO.dll
+C:\Users\Thien\Desktop\QuanLyKhachSan\quanlykhachsan\BLL\bin\Debug\DAL.pdb
+C:\Users\Thien\Desktop\QuanLyKhachSan\quanlykhachsan\BLL\bin\Debug\DTO.pdb
+C:\Users\Thien\Desktop\QuanLyKhachSan\quanlykhachsan\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Thien\Desktop\QuanLyKhachSan\quanlykhachsan\BLL\obj\Debug\BLL.dll
+C:\Users\Thien\Desktop\QuanLyKhachSan\quanlykhachsan\BLL\obj\Debug\BLL.pdb
+C:\Users\trong\OneDrive\Máy tính\QuanLyKhachSan\quanlykhachsan\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\trong\OneDrive\Máy tính\QuanLyKhachSan\quanlykhachsan\BLL\bin\Debug\BLL.dll
+C:\Users\trong\OneDrive\Máy tính\QuanLyKhachSan\quanlykhachsan\BLL\bin\Debug\BLL.pdb
+C:\Users\trong\OneDrive\Máy tính\QuanLyKhachSan\quanlykhachsan\BLL\bin\Debug\DAL.dll
+C:\Users\trong\OneDrive\Máy tính\QuanLyKhachSan\quanlykhachsan\BLL\bin\Debug\DTO.dll
+C:\Users\trong\OneDrive\Máy tính\QuanLyKhachSan\quanlykhachsan\BLL\bin\Debug\DAL.pdb
+C:\Users\trong\OneDrive\Máy tính\QuanLyKhachSan\quanlykhachsan\BLL\bin\Debug\DTO.pdb
+C:\Users\trong\OneDrive\Máy tính\QuanLyKhachSan\quanlykhachsan\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\trong\OneDrive\Máy tính\QuanLyKhachSan\quanlykhachsan\BLL\obj\Debug\BLL.dll
+C:\Users\trong\OneDrive\Máy tính\QuanLyKhachSan\quanlykhachsan\BLL\obj\Debug\BLL.pdb
+C:\Users\trong\OneDrive\Máy tính\Desktop\QuanLyKhachSan\quanlykhachsan\BLL\bin\Debug\BLL.dll
+C:\Users\trong\OneDrive\Máy tính\Desktop\QuanLyKhachSan\quanlykhachsan\BLL\bin\Debug\BLL.pdb
+C:\Users\trong\OneDrive\Máy tính\Desktop\QuanLyKhachSan\quanlykhachsan\BLL\bin\Debug\DAL.dll
+C:\Users\trong\OneDrive\Máy tính\Desktop\QuanLyKhachSan\quanlykhachsan\BLL\bin\Debug\DTO.dll
+C:\Users\trong\OneDrive\Máy tính\Desktop\QuanLyKhachSan\quanlykhachsan\BLL\bin\Debug\DAL.pdb
+C:\Users\trong\OneDrive\Máy tính\Desktop\QuanLyKhachSan\quanlykhachsan\BLL\bin\Debug\DTO.pdb
+C:\Users\trong\OneDrive\Máy tính\Desktop\QuanLyKhachSan\quanlykhachsan\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\trong\OneDrive\Máy tính\Desktop\QuanLyKhachSan\quanlykhachsan\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\trong\OneDrive\Máy tính\Desktop\QuanLyKhachSan\quanlykhachsan\BLL\obj\Debug\BLL.dll
+C:\Users\trong\OneDrive\Máy tính\Desktop\QuanLyKhachSan\quanlykhachsan\BLL\obj\Debug\BLL.pdb

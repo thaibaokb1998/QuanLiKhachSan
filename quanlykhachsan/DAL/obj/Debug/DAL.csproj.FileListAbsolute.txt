@@ -1,0 +1,30 @@
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\DAL\bin\Debug\DAL.dll
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\DAL\bin\Debug\DAL.pdb
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\DAL\obj\Debug\DAL.dll
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\DAL\obj\Debug\DAL.pdb
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\tai lieu\New folder\quanlykhachsan\DAL\bin\Debug\DAL.dll
+D:\tai lieu\New folder\quanlykhachsan\DAL\bin\Debug\DAL.pdb
+D:\tai lieu\New folder\quanlykhachsan\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\tai lieu\New folder\quanlykhachsan\DAL\obj\Debug\DAL.dll
+D:\tai lieu\New folder\quanlykhachsan\DAL\obj\Debug\DAL.pdb
+F:\winform c#\quanlykhachsan\DAL\bin\Debug\DAL.dll
+F:\winform c#\quanlykhachsan\DAL\bin\Debug\DAL.pdb
+F:\winform c#\quanlykhachsan\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\winform c#\quanlykhachsan\DAL\obj\Debug\DAL.dll
+F:\winform c#\quanlykhachsan\DAL\obj\Debug\DAL.pdb
+C:\Users\Thien\Desktop\QuanLyKhachSan\quanlykhachsan\DAL\bin\Debug\DAL.dll
+C:\Users\Thien\Desktop\QuanLyKhachSan\quanlykhachsan\DAL\bin\Debug\DAL.pdb
+C:\Users\Thien\Desktop\QuanLyKhachSan\quanlykhachsan\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Thien\Desktop\QuanLyKhachSan\quanlykhachsan\DAL\obj\Debug\DAL.dll
+C:\Users\Thien\Desktop\QuanLyKhachSan\quanlykhachsan\DAL\obj\Debug\DAL.pdb
+C:\Users\trong\OneDrive\Máy tính\QuanLyKhachSan\quanlykhachsan\DAL\bin\Debug\DAL.dll
+C:\Users\trong\OneDrive\Máy tính\QuanLyKhachSan\quanlykhachsan\DAL\bin\Debug\DAL.pdb
+C:\Users\trong\OneDrive\Máy tính\QuanLyKhachSan\quanlykhachsan\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\trong\OneDrive\Máy tính\QuanLyKhachSan\quanlykhachsan\DAL\obj\Debug\DAL.dll
+C:\Users\trong\OneDrive\Máy tính\QuanLyKhachSan\quanlykhachsan\DAL\obj\Debug\DAL.pdb
+C:\Users\trong\OneDrive\Máy tính\Desktop\QuanLyKhachSan\quanlykhachsan\DAL\bin\Debug\DAL.dll
+C:\Users\trong\OneDrive\Máy tính\Desktop\QuanLyKhachSan\quanlykhachsan\DAL\bin\Debug\DAL.pdb
+C:\Users\trong\OneDrive\Máy tính\Desktop\QuanLyKhachSan\quanlykhachsan\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\trong\OneDrive\Máy tính\Desktop\QuanLyKhachSan\quanlykhachsan\DAL\obj\Debug\DAL.dll
+C:\Users\trong\OneDrive\Máy tính\Desktop\QuanLyKhachSan\quanlykhachsan\DAL\obj\Debug\DAL.pdb
